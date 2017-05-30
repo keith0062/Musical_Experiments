@@ -1,2 +1,2 @@
-# stale-ideas
+# Experiments with programming
 Code and music
